@@ -1,16 +1,12 @@
 # orderingapp
 
-Online Ordering app
+Online Ordering app called Snacks App
+##**APK Screenshots**
+![Alt text](/assets/appscreenshots/home!.jpg?raw=true "Home Screen")
+![Alt text](/assets/appscreenshots/selected!.jpg?raw=true "Selected Items Screen")
+![Alt text](/assets/appscreenshots/cart!.jpg?raw=true "Cart Screen")
+![Alt text](/assets/appscreenshots/me!.jpg?raw=true "About Me")
+## APK Download Link
 
-## Getting Started
+To get a demo of the app use the following link to download apk from my google drive
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
